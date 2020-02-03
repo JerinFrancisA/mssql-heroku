@@ -10,4 +10,4 @@ flask = "*"
 pyodbc = "*"
 
 [requires]
-python_version = "3.6.10"
+python_version = "2.7"
