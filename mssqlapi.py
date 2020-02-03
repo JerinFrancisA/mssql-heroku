@@ -12,7 +12,7 @@ def default(o):
 
 
 conn = pyodbc.connect(
-    "Driver={SQL Server Native Client 11.0};"
+    "Driver={ODBC Driver 17 for SQL Server};"
     "Server=LAPTOP-990NQR13;"
     "Database=rwf;"
     "Trusted_Connection=yes;"
