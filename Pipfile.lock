@@ -100,7 +100,7 @@
                 "sha256:f37f26ae909101465a085ef51b9dde35afc93b7c7e38c25b61b124b110aa9998"
             ],
             "index": "pypi",
-            "version": "==4.0.26"
+            "version": "==4.0.28"
         },
         "werkzeug": {
             "hashes": [
