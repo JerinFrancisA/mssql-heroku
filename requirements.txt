@@ -1,2 +1,4 @@
-pyodbc
-flask
+Flask
+Flask-RESTful
+Flask-SQLAlchemy
+uwsgi
